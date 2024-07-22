@@ -30,8 +30,8 @@ Projenin çalıştırılabilmesi için aşağıdaki adımları izleyin:
 1. **Flutter SDK'yı yükleyin**: [Flutter Kurulum Kılavuzu](https://flutter.dev/docs/get-started/install)
 2. **Proje dosyalarını klonlayın**:
     ```sh
-    git clone https://github.com/kullanici_adi/proje_adi.git
-    cd proje_adi
+    git clone https://github.com/AhmetKoca32/To-Do-List-App.git
+    cd To-Do-List-App
     ```
 3. **Gerekli paketleri yükleyin**:
     ```sh
@@ -75,13 +75,13 @@ This Flutter-based to-do list application helps users track their daily tasks. U
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](HomeScreen.png)
 
 ### Add Task
-![Add Task](screenshots/add_task.png)
+![Add Task](add_task.png)
 
 ### Edit Task
-![Edit Task](screenshots/edit_task.png)
+![Edit Task](edit_task.png)
 
 ## Installation
 
@@ -90,8 +90,8 @@ To get this project up and running, follow these steps:
 1. **Install Flutter SDK**: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
 2. **Clone the project**:
     ```sh
-    git clone https://github.com/username/repository_name.git
-    cd repository_name
+    git clone https://github.com/AhmetKoca32/To-Do-List-App.git
+    cd To-Do-List-App
     ```
 3. **Install dependencies**:
     ```sh

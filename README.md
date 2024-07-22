@@ -15,13 +15,13 @@ Bu Flutter tabanlı to-do list uygulaması, kullanıcıların günlük görevler
 ## Ekran Görüntüleri
 
 ### Ana Ekran
-![Ana Ekran](screenshots/home.png)
+![Ana Ekran](HomeScreen.png)
 
 ### Görev Ekleme
-![Görev Ekleme](screenshots/add_task.png)
+![Görev Ekleme](add_task.png)
 
 ### Görev Düzenleme
-![Görev Düzenleme](screenshots/edit_task.png)
+![Görev Düzenleme](edit_task.png)
 
 ## Kurulum
 
